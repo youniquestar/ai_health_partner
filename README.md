@@ -1,9 +1,8 @@
-# WellSync: AI-Powered Health Partner & Triage Engine
+# AI-Powered Health Partner & Triage Engine
 
-![WellSync Logo](assets/logo.png)
 
 ## 🩺 Project Overview
-**WellSync** is an intelligent conversational engine designed to bridge the gap between overstrained healthcare systems and patient care. Developed during a high-stakes hackathon, this backend service automates the clinical triage process and maintains empathetic daily follow-ups to ensure treatment adherence.
+This is an intelligent conversational engine designed to bridge the gap between overstrained healthcare systems and patient care. Developed during a high-stakes hackathon, this backend service automates the clinical triage process and maintains empathetic daily follow-ups to ensure treatment adherence.
 
 As the **AI Backend Developer**, I architected a modular state-machine logic that parses unstructured patient natural language into validated clinical data without the unpredictability of raw LLM outputs.
 
@@ -65,5 +64,3 @@ The engine is built on a **Three-Tier Architecture** to ensure scalability and s
 
 ## 👨‍💻 About the Developer
 Developed by Alao Jeremiah, a Mechatronics Engineering student in Nigeria specializing in IoT, robotics, and AI-driven automation systems. This project reflects my commitment to building engineering solutions that address real-world healthcare infrastructure bottlenecks.
-   git clone [https://github.com/alaojeremiah/wellsync-backend.git](https://github.com/alaojeremiah/wellsync-backend.git)
-   cd wellsync-backend
